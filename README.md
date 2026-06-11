@@ -1,16 +1,66 @@
-## Hi there 👋
+👋 Olá, eu sou Thainan Lima
 
-<!--
-**thainanls96/thainanls96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦊 AI Product Builder • Building CAPTA IMOB
 
-Here are some ideas to get you started:
+Apaixonado por tecnologia, arquitetura de software e Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou desenvolvendo o CAPTA IMOB, uma plataforma SaaS criada para transformar a forma como corretores e imobiliárias encontram novas oportunidades de negócio.
+
+---
+
+🚀 O que estou construindo
+
+🏡 CAPTA IMOB
+
+Uma plataforma moderna desenvolvida para ajudar profissionais do mercado imobiliário através de tecnologia, automação e Inteligência Artificial.
+
+Meu objetivo é criar produtos rápidos, intuitivos e capazes de resolver problemas reais.
+
+---
+
+💻 Tecnologias
+
+- TypeScript
+- Fastify
+- PostgreSQL
+- Docker
+- Linux
+- Git & GitHub
+- VPS & Infraestrutura
+- Inteligência Artificial
+
+---
+
+⚙️ Atualmente
+
+- 🚀 Desenvolvendo um SaaS do zero
+- 🤖 Criando fluxos de desenvolvimento com IA
+- 🏗️ Estudando arquitetura escalável
+- 🐳 Aprimorando infraestrutura Docker e Linux
+- 📚 Aprendendo continuamente novas tecnologias
+
+---
+
+🎯 Filosofia
+
+Acredito que grandes produtos são construídos através de evolução constante, simplicidade e foco na experiência do usuário.
+
+Cada melhoria, cada documentação e cada linha de código representam um passo em direção a um produto melhor.
+
+---
+
+🌱 Em constante evolução
+
+Sempre explorando novas formas de utilizar Inteligência Artificial para acelerar o desenvolvimento, automatizar processos e criar soluções inovadoras.
+
+---
+
+📍 Foco atual
+
+CAPTA IMOB
+
+Uma plataforma SaaS focada em corretores e imobiliárias, construída com arquitetura moderna, alta performance e visão de longo prazo.
+
+---
+
+«Build • Learn • Improve • Repeat 🚀»
