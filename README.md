@@ -1,205 +1,72 @@
-# 👋 Olá, eu sou Thainan Lima
+<h1 align="center">Thainan Ariel Lima Santos</h1>
 
-## 🦊 AI Product Builder • SaaS Founder • Backend & Infrastructure
+<p align="center">
+  Estudante de Ciência da Computação &nbsp;•&nbsp; Futuro Desenvolvedor Java
+</p>
 
-🇧🇷 Português | 🇺🇸 English below
-
----
-
-# 🇧🇷 Sobre mim
-
-Apaixonado por tecnologia, arquitetura de software, Inteligência Artificial e construção de produtos do zero.
-
-Atualmente estou desenvolvendo o **CAPTA IMOB**, uma plataforma SaaS criada para transformar a forma como corretores e imobiliárias encontram novas oportunidades de negócio.
-
----
-
-# 🚀 Projeto Atual
-
-## 🏡 CAPTA IMOB
-
-Uma plataforma moderna construída com Inteligência Artificial para ajudar profissionais do mercado imobiliário a encontrar oportunidades antes da concorrência.
-
-**Slogan**
-
-> **ANTES do lead existir.**
+<p align="center">
+  <a href="mailto:thainanls96@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thainanls96%40gmail.com-informational?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <!-- LinkedIn: substitua a URL abaixo pelo seu perfil quando criá-lo -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-em%20breve-lightgrey?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
-# 💻 Tecnologias
+## Sobre
 
-### Backend
+Sou estudante de **Ciência da Computação (Bacharelado)** e estou construindo minha base como desenvolvedor **backend com Java**.
 
-- TypeScript
-- Node.js
-- Fastify
-- REST APIs
+No momento, meu foco é dominar os fundamentos: lógica de programação, sintaxe e orientação a objetos em Java, e o versionamento de código com Git e GitHub. Aprendo de forma consistente, um passo de cada vez, documentando o progresso aqui.
 
-### Banco de Dados
+## Objetivo
 
-- PostgreSQL
-- Prisma ORM
+Busco oportunidades como **Estagiário** ou **Desenvolvedor Java Júnior**, onde eu possa contribuir, aprender com times experientes e crescer na área de **Engenharia de Software** e **desenvolvimento backend**.
 
-### Infraestrutura
+## Tecnologias que estudo hoje
 
-- Docker
-- Linux
-- VPS
-- Traefik
-- Git & GitHub
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o-2E7D32?style=flat-square" alt="Lógica de Programação">
+</p>
 
-### Inteligência Artificial
+## Roadmap de aprendizado
 
-- OpenAI
-- Claude
-- Codex
-- AI Workflows
+Meu plano de evolução, do fundamento à aplicação. As próximas etapas serão adicionadas ao perfil conforme forem estudadas.
 
----
+| Etapa | Foco | Status |
+|-------|------|--------|
+| 1. Fundamentos | Lógica de programação, Git & GitHub | 🟢 Em progresso |
+| 2. Java Core | Sintaxe, POO, coleções, tratamento de exceções | 🟢 Em progresso |
+| 3. Banco de Dados | SQL e modelagem de dados | ⚪ Planejado |
+| 4. Spring Boot & APIs REST | Construção de APIs backend | ⚪ Planejado |
+| 5. DevOps & Cloud | Docker, Linux e computação em nuvem | ⚪ Planejado |
 
-# 🎯 Atualmente
+## Projetos
 
-🚀 Desenvolvendo um SaaS do zero
+Meus primeiros projetos de estudo em Java estão em construção e serão publicados aqui em breve — cada um com seu próprio README e código documentado.
 
-🏗️ Projetando arquiteturas escaláveis
+> Esta seção será atualizada conforme novos projetos forem concluídos.
 
-🤖 Automatizando desenvolvimento com IA
+## Estatísticas
 
-🐳 Aprimorando infraestrutura Docker/Linux
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thainanls96&show_icons=true&hide_border=true&locale=pt-br&count_private=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thainanls96&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+</p>
 
-📚 Aprendendo algo novo todos os dias
+## Contato
 
----
-
-# 🌱 Filosofia
-
-Acredito que grandes produtos são construídos através de pequenas melhorias diárias.
-
-Cada commit, cada documentação e cada linha de código representam um passo para construir algo extraordinário.
+- **Email:** thainanls96@gmail.com
+- **LinkedIn:** _em breve_ <!-- adicione aqui o link do seu perfil -->
 
 ---
 
-# 📍 Objetivos
-
-- Lançar o CAPTA IMOB Beta
-- Construir um SaaS de nível mundial
-- Evoluir continuamente em Backend e Infraestrutura
-- Trabalhar remotamente com empresas globais
-- Contribuir para projetos Open Source
-
----
-
----
-
-# 🇺🇸 About Me
-
-## 🦊 AI Product Builder • SaaS Founder • Backend & Infrastructure
-
-Passionate about software architecture, artificial intelligence and building scalable products from scratch.
-
-Currently building **CAPTA IMOB**, an AI-powered SaaS platform designed to help real estate professionals discover opportunities before anyone else.
-
----
-
-# 🚀 Current Project
-
-## 🏡 CAPTA IMOB
-
-A modern SaaS platform focused on empowering real estate professionals through automation, cloud technologies and artificial intelligence.
-
-**Official slogan**
-
-> **BEFORE the lead exists.**
-
----
-
-# 💻 Tech Stack
-
-### Backend
-
-- TypeScript
-- Node.js
-- Fastify
-- REST APIs
-
-### Database
-
-- PostgreSQL
-- Prisma ORM
-
-### Infrastructure
-
-- Docker
-- Linux
-- VPS
-- Traefik
-- Git & GitHub
-
-### Artificial Intelligence
-
-- OpenAI
-- Claude
-- Codex
-- AI Workflows
-
----
-
-# ⚙️ Currently
-
-🚀 Building a SaaS from scratch
-
-🏗️ Designing scalable architectures
-
-🤖 Creating AI-powered development workflows
-
-🐳 Improving Docker & Linux infrastructure
-
-📚 Learning something new every single day
-
----
-
-# 🎯 Philosophy
-
-I believe great products are built through consistency, curiosity and continuous improvement.
-
-Every commit, every document and every line of code is another step toward building something meaningful.
-
----
-
-# 🌍 Goals
-
-- Launch CAPTA IMOB Beta
-- Build a world-class SaaS product
-- Master Backend & Infrastructure
-- Work remotely with global teams
-- Contribute to Open Source projects
-
----
-
-## 📈 Always Learning
-
-✔ Backend Development
-
-✔ Infrastructure & DevOps
-
-✔ Artificial Intelligence
-
-✔ SaaS Architecture
-
-✔ Product Design
-
-✔ System Scalability
-
----
-
-## 📬 Connect
-
-🦊 AI Product Builder
-
-🏡 Founder @ CAPTA IMOB
-
-🚀 Building products, learning every day and always open to new opportunities.
-
----
-
-> **Build • Learn • Improve • Repeat** 🚀
+<p align="center">
+  <sub>Estudante em evolução constante, com foco em fundamentos sólidos e desenvolvimento backend com Java.</sub>
+</p>
